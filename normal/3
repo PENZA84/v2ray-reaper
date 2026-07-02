@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Mitivpn@185.199.110.1:80?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC13
 trojan://humanity@198.202.211.1:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment&host=www.creationlong.org#%E6%9C%AA%E7%9F%A569
 trojan://humanity@www.ignitelimit.com:443?#%E6%9C%AA%E7%9F%A570
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzEiLCJhZGQiOiI4MTAzLnNob21hcGFydmF6cm95YWRldG9ubmlzdC1ieXBhc3Npc2hlcmUubGF0IiwicG9ydCI6IjgxMDMiLCJpZCI6IjhmNzRlYzhhLTk3MWMtMTFlZC1hOGZjLTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImFkODBmOGVjLTQ4NjEtMTFmMC1hOTQ4LTZhNzVmNjY3YjQ3Mi5TaG9tYVBhcnZhelJvWWFkZXRvbk5pc3QtQnlwYXNzSXNIZXJlLmxhdCIsInBhdGgiOiIvYWQ4MGY4ZWMtNDg2MS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhZDgwZjhlYy00ODYxLTExZjAtYTk0OC02YTc1ZjY2N2I0NzIuU2hvbWFQYXJ2YXpSb1lhZGV0b25OaXN0LUJ5cGFzc0lzSGVyZS5sYXQiLCJ0ZXN0X25hbWUiOiI3MSJ9

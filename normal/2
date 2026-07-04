@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&encryption=none&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
-vless://a0fe6694-919a-4346-9260-da24a197ee0b@51.178.135.38:443?security=reality&encryption=none&pbk=ato7XtTu3WFMLSmhffM_uO2ziYxJ63veJKKRQ28zQ0I&headerType=http&fp=chrome&spx=%2FE3OSJFzczYcejAJ&type=tcp&sni=www.yahoo.com&sid=89#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2087ms
 vless://79a67047-cf7e-4a0a-8867-afa54dc97c34@104.16.72.251:443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-comet-cloud-8371.evilhamedani.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-comet-cloud-8371.evilhamedani.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://79a67047-cf7e-4a0a-8867-afa54dc97c34@135.84.67.48:443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-comet-cloud-8371.evilhamedani.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-comet-cloud-8371.evilhamedani.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://79a67047-cf7e-4a0a-8867-afa54dc97c34@195.26.230.120:587?path=%2F&security=tls&encryption=none&insecure=0&host=nova-comet-cloud-8371.evilhamedani.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-comet-cloud-8371.evilhamedani.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20113ms
@@ -603,3 +601,5 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjAiLCJhZGQiOiJsaW5reHQuZ296YXI4LmlyIiwicG9y
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjEiLCJhZGQiOiI1Ny4xMjkuMTIxLjIzMCIsInBvcnQiOiIyMDUzIiwiaWQiOiIzZDM1OGVhNS00NjViLTQ2YWMtYTJkZi05OGNhMTU1NTE5NGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyMSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjIiLCJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInBvcnQiOiI4MDgwIiwiaWQiOiI3MmY1YmQ4NS02ZDkyLTQ2NDQtYTFjNC01NDJhOTI4OTZhOGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHB1cGdyYWRlIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ1cC5kZ2NsaXguaXIiLCJwYXRoIjoiL2N1c3RvbV9jb25maWc/ZWQ9MjU2MCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjMiLCJhZGQiOiIxNjEuMjQ4LjMwLjMiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjEwMDZhOTI4LTIwMjEtNGEzYi1iZWI1LWQ1ODUzYzYyODFjNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjMifQ==
+trojan://BxceQaOe@16.163.155.249:2366?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF

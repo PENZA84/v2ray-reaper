@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443?security=tls&sni=xd.ylks.xyz&type=ws&path=%2F#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.215:443?path=%2Ffreecodes&security=tls&encryption=none&type=ws&sni=xd.ylks.xyz#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.215:443?security=tls&sni=xd.ylks.xyz&type=ws&path=%2Ffreecodes#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://4ba9fdb0-1633-4409-801d-d190fb682a80@165.232.127.41:8080?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=LGxhssqzvecuM5YPNRSuQhpaeSx_FAS6kM5e3Ge84yE&security=reality&sid=9135fe&sni=www.intel.com&spx=%2Fst4I0B9WlmjHQUw&type=xhttp&x_padding_bytes=100-1000#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%20down
 vless://4da72a60-61b9-4571-a054-1bba24bf6728@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=nesfeshzksab.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://4eeed2f5-7c46-4324-8d73-419f1531dec8@144.31.237.88:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lWJaKBaMPs0NYHGCbfsrmn64R4juEQEvfmHNnL741Ek&security=reality&sid=27d53dfed8185f24&sni=www.mozilla.org&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2095ms
@@ -603,3 +600,6 @@ trojan://b490740312aedb5f9f6b84c7aebd08c0@18.163.123.154:6357?sni=www.nintendoga
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
 vmess://eyJ2IjoiMiIsInBzIjoiVVM0IDYuNU1CL3MiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJwb3J0IjoiNDQzIiwiaWQiOiJiNjVhMmQ2OS01NjM0LTQyYTItZTRiZS01NGU4YTYxNzY5MDAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzQifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDUiLCJhZGQiOiIyMDguODQuMTAyLjIzNCIsInBvcnQiOiI0MDIzOCIsImlkIjoiNTRjYmRhMDAtYzhmNy00OTU0LTg0MDEtZTA0ODk5MTI5YWJlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJwbGF5Lmdvb2dsZS5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQ1In0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDYiLCJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwicG9ydCI6IjQzMDYzIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQ2In0=
+trojan://8r%3C%5B9%27l6hAO%238ZQi@151.241.215.148:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AE%F0%9F%87%B9IT%E6%84%8F%E5%A4%A7%E5%88%A9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDciLCJhZGQiOiI1MS44My41Mi4xNzIiLCJwb3J0IjoiMjA4NSIsImlkIjoiMmM3MmM2NjctMDkzYy00N2E1LWExMDgtNDkzYzkzMjgyYjU3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJmYXN0LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNDcifQ==

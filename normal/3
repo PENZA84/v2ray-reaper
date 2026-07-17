@@ -3,29 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://CF68213490@evolving-mollusk.rooster465.autos:443?security=tls&sni=evolving-mollusk.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.248.6.109-0111
-trojan://CF68213490@43.207.117.135:443?security=tls&sni=eminent-panther.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.117.135-0134
-trojan://CF68213490@rested-osprey.rooster465.autos:443?security=tls&sni=rested-osprey.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.207.214-0104
-trojan://CF68213490@steady-prawn.rooster465.autos:443?security=tls&sni=steady-prawn.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.215.200-0094
-trojan://CF68213490@eager-platypus.rooster465.autos:443?security=tls&sni=eager-platypus.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.85.144-0121
-trojan://CF68213490@settling-humpback.rooster465.autos:443?security=tls&sni=settling-humpback.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.112.180.140-0141
-trojan://CF68213490@star-moray.rooster465.autos:443?security=tls&sni=star-moray.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.149.206-0097
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.59.31.133:443#%F0%9F%87%BA%F0%9F%87%B8US-13.59.31.133-5809
-trojan://CF68213490@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.252.28-0138
-trojan://CF68213490@nearby-egret.rooster465.autos:443?security=tls&sni=nearby-egret.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.102.210-0133
-trojan://KV63147582@more-trout.rooster465.autos:443?security=tls&sni=more-trout.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.212-0460
-vmess://ewogICAgImFkZCI6ICIxMDcuMTYxLjgyLjg5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiZDE2ZWQ4Zi1hNWJkLTQ3ZWEtYTY5YS02NTFmYzcwZTkyYWMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraSIsCiAgICAicG9ydCI6IDU5Mjg0LAogICAgInBzIjogIvCfh7rwn4e4VVMtMTA3LjE2MS44Mi44OS01ODE1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-0082
-trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.76-0100
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.145.57.90:443#%F0%9F%87%BA%F0%9F%87%B8US-3.145.57.90-5805
-trojan://CF68213490@easy-barnacle.rooster465.autos:443?security=tls&sni=easy-barnacle.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.178.0.218-0135
-trojan://CF68213490@caring-wallaby.rooster465.autos:443?security=tls&sni=caring-wallaby.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-35.72.9.75-0139
-trojan://CF68213490@excited-squirrel.rooster465.autos:443?security=tls&sni=excited-squirrel.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.190.61-0146
-trojan://CF68213490@eternal-horse.rooster465.autos:443?security=tls&sni=eternal-horse.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.235.223-0163
-trojan://CF68213490@smooth-lark.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.46.29-5726
-trojan://CF68213490@star-bluejay.rooster465.autos:443?security=tls&sni=star-bluejay.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.159.219-0149
-trojan://CF68213490@pure-ram.rooster465.autos:443?security=tls&sni=pure-ram.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.214.88-0153
-trojan://CF68213490@central-jawfish.rooster465.autos:443?security=tls&sni=central-jawfish.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.233.91-0161
 trojan://CF68213490@tolerant-stag.rooster465.autos:443?security=tls&sni=tolerant-stag.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.209.247-0158
 trojan://CF68213490@climbing-frog.rooster465.autos:443?security=tls&sni=climbing-frog.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.81.139-0150
 trojan://CF68213490@awake-satyr.rooster465.autos:443?security=tls&sni=awake-satyr.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.94.34-0155

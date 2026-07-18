@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://CF68213490@shining-piranha.rooster465.autos:443?security=tls&sni=shining-piranha.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.177.140.248-0107
-trojan://NQ26071394@picked-guinea.rooster465.autos:443?security=tls&sni=picked-guinea.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.168.119.138-3112
-trojan://CF68213490@smiling-fowl.rooster465.autos:443?security=tls&sni=smiling-fowl.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.115.80.163-0106
 trojan://CF68213490@star-moray.rooster465.autos:443?security=tls&sni=star-moray.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.149.206-0159
 trojan://NQ26071394@beloved-crow.rooster465.autos:443?security=tls&sni=beloved-crow.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.110.117-3130
 trojan://CF68213490@gentle-honeybee.rooster465.autos:443?security=tls&sni=gentle-honeybee.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.168.247.156-0110

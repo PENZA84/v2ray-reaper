@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22222?encryption=none&type=tcp&headerType=none#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://248a5252-9ca2-4612-91c0-7122965854d2@2m1fa.pastilbastani.ir:443?encryption=none&type=tcp&headerType=http&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://6d5fc8cf-6937-48ee-a635-e01897d0939d@c2.nyanners.ir:8443?encryption=none&type=ws&security=tls&path=%2Fws&sni=c1.nyanners.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%20151ms
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20259ms
@@ -603,3 +602,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzQiLCJhZGQiOiIxMDIuMTc3LjE4OS4xMDEiLCJwb3J0
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzUiLCJhZGQiOiIxNjEuMjQ4LjMwLjMiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjEwMDZhOTI4LTIwMjEtNGEzYi1iZWI1LWQ1ODUzYzYyODFjNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMzUifQ==
 trojan://JA96378052@13.212.210.184:443?sni=WangCai.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
 trojan://humanity@172.64.146.28:443?sni=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.108.33:17005?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
